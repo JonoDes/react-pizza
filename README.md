@@ -1,15 +1,15 @@
 # react-pizza
 
-#Stack:
+# Stack:
 
-#Core-technologies:
+# Core-technologies:
 React,
 Firebase(firestore),
 typescript,
 scss,
 redux-toolkit
 
-#etc:
+# etc:
 Create-react-app,
 browser-router,
 lodash-debounce,
